@@ -1,0 +1,13 @@
+{
+  "app": "Alpha",
+  "versionCode": 39,
+  "versionName": "3.9",
+  "apkUrl": "https://github.com/mgmohitgrewal21/alpha-app/releases/download/v3.9/ALPHA-APP-v3.9.apk",
+  "notes": [
+    "New: Updates and Support panel - check for updates inside the app",
+    "New: Customer Support with one-tap diagnostics email",
+    "Music bar, Bunty Control and everything from v3.8 included"
+  ],
+  "supportEmail": "mike@madme.org",
+  "publishedAt": "2026-10-30"
+}
