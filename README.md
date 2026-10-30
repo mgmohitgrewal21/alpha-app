@@ -1,2 +1,5 @@
-# alpha-app
-Alpha by MADME — official app update channel. Latest version info and releases.
+# Alpha by MADME
+Official update channel for the Alpha app.
+- The app checks version.json in this repository to find the latest version.
+- New builds are published under Releases.
+MADME - madme.org
